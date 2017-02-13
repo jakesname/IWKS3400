@@ -1,0 +1,11 @@
+Content\ball.xnb
+Content\greenstar.xnb
+Content\redstar.xnb
+Content\spatiul-cosmic.xnb
+Content\chord.xnb
+Content\metal.xnb
+Content\Courier New.xnb
+Content\Labs3Sounds.xgs
+Content\Wave Bank.xwb
+Content\Music.xwb
+Content\Sound Bank.xsb

@@ -1,0 +1,66 @@
+C:\Users\Christopher Corona\Desktop\computer desktop\UC Denver\Spring 2017\CSCI 2941\IWKS_3400_Lab4\IWKS_3400_Lab4\IWKS_3400_Lab4\bin\x86\Debug\IWKS_3400_Lab4.exe
+C:\Users\Christopher Corona\Desktop\computer desktop\UC Denver\Spring 2017\CSCI 2941\IWKS_3400_Lab4\IWKS_3400_Lab4\IWKS_3400_Lab4\bin\x86\Debug\IWKS_3400_Lab4.pdb
+C:\Users\Christopher Corona\Desktop\computer desktop\UC Denver\Spring 2017\CSCI 2941\IWKS_3400_Lab4\IWKS_3400_Lab4\IWKS_3400_Lab4\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\Christopher Corona\Desktop\computer desktop\UC Denver\Spring 2017\CSCI 2941\IWKS_3400_Lab4\IWKS_3400_Lab4\IWKS_3400_Lab4\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\Christopher Corona\Desktop\computer desktop\UC Denver\Spring 2017\CSCI 2941\IWKS_3400_Lab4\IWKS_3400_Lab4\IWKS_3400_Lab4\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\Christopher Corona\Desktop\computer desktop\UC Denver\Spring 2017\CSCI 2941\IWKS_3400_Lab4\IWKS_3400_Lab4\IWKS_3400_Lab4\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\Christopher Corona\Desktop\computer desktop\UC Denver\Spring 2017\CSCI 2941\IWKS_3400_Lab4\IWKS_3400_Lab4\IWKS_3400_Lab4\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\Christopher Corona\Desktop\computer desktop\UC Denver\Spring 2017\CSCI 2941\IWKS_3400_Lab4\IWKS_3400_Lab4\IWKS_3400_Lab4\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\Christopher Corona\Desktop\computer desktop\UC Denver\Spring 2017\CSCI 2941\IWKS_3400_Lab4\IWKS_3400_Lab4\IWKS_3400_Lab4\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\Christopher Corona\Desktop\computer desktop\UC Denver\Spring 2017\CSCI 2941\IWKS_3400_Lab4\IWKS_3400_Lab4\IWKS_3400_Lab4\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\Christopher Corona\Desktop\computer desktop\UC Denver\Spring 2017\CSCI 2941\IWKS_3400_Lab4\IWKS_3400_Lab4\IWKS_3400_Lab4\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\Christopher Corona\Desktop\computer desktop\UC Denver\Spring 2017\CSCI 2941\IWKS_3400_Lab4\IWKS_3400_Lab4\IWKS_3400_Lab4\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\Christopher Corona\Desktop\computer desktop\UC Denver\Spring 2017\CSCI 2941\IWKS_3400_Lab4\IWKS_3400_Lab4\IWKS_3400_Lab4\obj\x86\Debug\IWKS_3400_Lab4.csprojResolveAssemblyReference.cache
+C:\Users\Christopher Corona\Desktop\computer desktop\UC Denver\Spring 2017\CSCI 2941\IWKS_3400_Lab4\IWKS_3400_Lab4\IWKS_3400_Lab4\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Christopher Corona\Desktop\computer desktop\UC Denver\Spring 2017\CSCI 2941\IWKS_3400_Lab4\IWKS_3400_Lab4\IWKS_3400_Lab4\obj\x86\Debug\IWKS_3400_Lab4.exe
+C:\Users\Christopher Corona\Desktop\computer desktop\UC Denver\Spring 2017\CSCI 2941\IWKS_3400_Lab4\IWKS_3400_Lab4\IWKS_3400_Lab4\obj\x86\Debug\IWKS_3400_Lab4.pdb
+C:\Users\Christopher Corona\Desktop\computer desktop\UC Denver\Spring 2017\CSCI 2941\IWKS_3400_Lab4\IWKS_3400_Lab4\IWKS_3400_Lab4\bin\x86\Debug\Content\ball.xnb
+C:\Users\Christopher Corona\Desktop\computer desktop\UC Denver\Spring 2017\CSCI 2941\IWKS_3400_Lab4\IWKS_3400_Lab4\IWKS_3400_Lab4\bin\x86\Debug\Content\greenstar.xnb
+C:\Users\Christopher Corona\Desktop\computer desktop\UC Denver\Spring 2017\CSCI 2941\IWKS_3400_Lab4\IWKS_3400_Lab4\IWKS_3400_Lab4\bin\x86\Debug\Content\redstar.xnb
+C:\Users\Christopher Corona\Desktop\computer desktop\UC Denver\Spring 2017\CSCI 2941\IWKS_3400_Lab4\IWKS_3400_Lab4\IWKS_3400_Lab4\bin\x86\Debug\Content\chord.xnb
+C:\Users\Christopher Corona\Desktop\computer desktop\UC Denver\Spring 2017\CSCI 2941\IWKS_3400_Lab4\IWKS_3400_Lab4\IWKS_3400_Lab4\bin\x86\Debug\Content\metal.xnb
+C:\Users\Christopher Corona\Desktop\computer desktop\UC Denver\Spring 2017\CSCI 2941\IWKS_3400_Lab4\IWKS_3400_Lab4\IWKS_3400_Lab4\bin\x86\Debug\Content\Labs3Sounds.xgs
+C:\Users\Christopher Corona\Desktop\computer desktop\UC Denver\Spring 2017\CSCI 2941\IWKS_3400_Lab4\IWKS_3400_Lab4\IWKS_3400_Lab4\bin\x86\Debug\Content\Wave Bank.xwb
+C:\Users\Christopher Corona\Desktop\computer desktop\UC Denver\Spring 2017\CSCI 2941\IWKS_3400_Lab4\IWKS_3400_Lab4\IWKS_3400_Lab4\bin\x86\Debug\Content\Music.xwb
+C:\Users\Christopher Corona\Desktop\computer desktop\UC Denver\Spring 2017\CSCI 2941\IWKS_3400_Lab4\IWKS_3400_Lab4\IWKS_3400_Lab4\bin\x86\Debug\Content\Sound Bank.xsb
+C:\Users\Christopher Corona\Desktop\computer desktop\UC Denver\Spring 2017\CSCI 2941\IWKS_3400_Lab4\IWKS_3400_Lab4\IWKS_3400_Lab4\bin\x86\Debug\Microsoft.Xna.Framework.Net.dll
+C:\Users\Christopher Corona\Desktop\computer desktop\UC Denver\Spring 2017\CSCI 2941\IWKS_3400_Lab4\IWKS_3400_Lab4\IWKS_3400_Lab4\bin\x86\Debug\Microsoft.Xna.Framework.Storage.dll
+C:\Users\Christopher Corona\Desktop\computer desktop\UC Denver\Spring 2017\CSCI 2941\IWKS_3400_Lab4\IWKS_3400_Lab4\IWKS_3400_Lab4\bin\x86\Debug\Microsoft.Xna.Framework.Xact.dll
+C:\Users\Christopher Corona\Desktop\computer desktop\UC Denver\Spring 2017\CSCI 2941\IWKS_3400_Lab4\IWKS_3400_Lab4\IWKS_3400_Lab4\bin\x86\Debug\Microsoft.Xna.Framework.Net.xml
+C:\Users\Christopher Corona\Desktop\computer desktop\UC Denver\Spring 2017\CSCI 2941\IWKS_3400_Lab4\IWKS_3400_Lab4\IWKS_3400_Lab4\bin\x86\Debug\Microsoft.Xna.Framework.Storage.xml
+C:\Users\Christopher Corona\Desktop\computer desktop\UC Denver\Spring 2017\CSCI 2941\IWKS_3400_Lab4\IWKS_3400_Lab4\IWKS_3400_Lab4\bin\x86\Debug\Microsoft.Xna.Framework.Xact.xml
+C:\Users\Christopher Corona\Desktop\computer desktop\UC Denver\Spring 2017\CSCI 2941\IWKS_3400_Lab4\IWKS_3400_Lab4\IWKS_3400_Lab4\bin\x86\Debug\Content\Courier New.xnb
+C:\Users\Christopher Corona\Desktop\computer desktop\UC Denver\Spring 2017\CSCI 2941\IWKS_3400_Lab4\IWKS_3400_Lab4\IWKS_3400_Lab4\bin\x86\Debug\Content\spatiul-cosmic.xnb
+C:\Users\jake\Desktop\IWKS_3400_Lab4\IWKS_3400_Lab4\IWKS_3400_Lab4\obj\x86\Debug\IWKS_3400_Lab4.exe
+C:\Users\jake\Desktop\IWKS_3400_Lab4\IWKS_3400_Lab4\IWKS_3400_Lab4\obj\x86\Debug\IWKS_3400_Lab4.pdb
+C:\Users\jake\Desktop\IWKS_3400_Lab4\IWKS_3400_Lab4\IWKS_3400_Lab4\bin\x86\Debug\Content\ball.xnb
+C:\Users\jake\Desktop\IWKS_3400_Lab4\IWKS_3400_Lab4\IWKS_3400_Lab4\bin\x86\Debug\Content\greenstar.xnb
+C:\Users\jake\Desktop\IWKS_3400_Lab4\IWKS_3400_Lab4\IWKS_3400_Lab4\bin\x86\Debug\Content\redstar.xnb
+C:\Users\jake\Desktop\IWKS_3400_Lab4\IWKS_3400_Lab4\IWKS_3400_Lab4\bin\x86\Debug\Content\spatiul-cosmic.xnb
+C:\Users\jake\Desktop\IWKS_3400_Lab4\IWKS_3400_Lab4\IWKS_3400_Lab4\bin\x86\Debug\Content\chord.xnb
+C:\Users\jake\Desktop\IWKS_3400_Lab4\IWKS_3400_Lab4\IWKS_3400_Lab4\bin\x86\Debug\Content\metal.xnb
+C:\Users\jake\Desktop\IWKS_3400_Lab4\IWKS_3400_Lab4\IWKS_3400_Lab4\bin\x86\Debug\Content\Courier New.xnb
+C:\Users\jake\Desktop\IWKS_3400_Lab4\IWKS_3400_Lab4\IWKS_3400_Lab4\bin\x86\Debug\Content\Labs3Sounds.xgs
+C:\Users\jake\Desktop\IWKS_3400_Lab4\IWKS_3400_Lab4\IWKS_3400_Lab4\bin\x86\Debug\Content\Wave Bank.xwb
+C:\Users\jake\Desktop\IWKS_3400_Lab4\IWKS_3400_Lab4\IWKS_3400_Lab4\bin\x86\Debug\Content\Music.xwb
+C:\Users\jake\Desktop\IWKS_3400_Lab4\IWKS_3400_Lab4\IWKS_3400_Lab4\bin\x86\Debug\Content\Sound Bank.xsb
+C:\Users\jake\Desktop\IWKS_3400_Lab4\IWKS_3400_Lab4\IWKS_3400_Lab4\bin\x86\Debug\IWKS_3400_Lab4.exe
+C:\Users\jake\Desktop\IWKS_3400_Lab4\IWKS_3400_Lab4\IWKS_3400_Lab4\bin\x86\Debug\IWKS_3400_Lab4.pdb
+C:\Users\jake\Desktop\IWKS_3400_Lab4\IWKS_3400_Lab4\IWKS_3400_Lab4\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\jake\Desktop\IWKS_3400_Lab4\IWKS_3400_Lab4\IWKS_3400_Lab4\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\jake\Desktop\IWKS_3400_Lab4\IWKS_3400_Lab4\IWKS_3400_Lab4\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\jake\Desktop\IWKS_3400_Lab4\IWKS_3400_Lab4\IWKS_3400_Lab4\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\jake\Desktop\IWKS_3400_Lab4\IWKS_3400_Lab4\IWKS_3400_Lab4\bin\x86\Debug\Microsoft.Xna.Framework.Net.dll
+C:\Users\jake\Desktop\IWKS_3400_Lab4\IWKS_3400_Lab4\IWKS_3400_Lab4\bin\x86\Debug\Microsoft.Xna.Framework.Storage.dll
+C:\Users\jake\Desktop\IWKS_3400_Lab4\IWKS_3400_Lab4\IWKS_3400_Lab4\bin\x86\Debug\Microsoft.Xna.Framework.Xact.dll
+C:\Users\jake\Desktop\IWKS_3400_Lab4\IWKS_3400_Lab4\IWKS_3400_Lab4\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\jake\Desktop\IWKS_3400_Lab4\IWKS_3400_Lab4\IWKS_3400_Lab4\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\jake\Desktop\IWKS_3400_Lab4\IWKS_3400_Lab4\IWKS_3400_Lab4\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\jake\Desktop\IWKS_3400_Lab4\IWKS_3400_Lab4\IWKS_3400_Lab4\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\jake\Desktop\IWKS_3400_Lab4\IWKS_3400_Lab4\IWKS_3400_Lab4\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\jake\Desktop\IWKS_3400_Lab4\IWKS_3400_Lab4\IWKS_3400_Lab4\bin\x86\Debug\Microsoft.Xna.Framework.Net.xml
+C:\Users\jake\Desktop\IWKS_3400_Lab4\IWKS_3400_Lab4\IWKS_3400_Lab4\bin\x86\Debug\Microsoft.Xna.Framework.Storage.xml
+C:\Users\jake\Desktop\IWKS_3400_Lab4\IWKS_3400_Lab4\IWKS_3400_Lab4\bin\x86\Debug\Microsoft.Xna.Framework.Xact.xml
+C:\Users\jake\Desktop\IWKS_3400_Lab4\IWKS_3400_Lab4\IWKS_3400_Lab4\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\jake\Desktop\IWKS_3400_Lab4\IWKS_3400_Lab4\IWKS_3400_Lab4\obj\x86\Debug\IWKS_3400_Lab4.csprojResolveAssemblyReference.cache
+C:\Users\jake\Desktop\IWKS_3400_Lab4\IWKS_3400_Lab4\IWKS_3400_Lab4\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt

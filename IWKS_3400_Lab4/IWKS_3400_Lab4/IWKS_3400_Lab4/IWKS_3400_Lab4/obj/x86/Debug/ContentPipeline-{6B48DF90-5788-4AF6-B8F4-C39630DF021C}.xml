@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>ball.bmp</Source>
+      <Name>ball</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jake\Desktop\IWKS_3400_Lab4\IWKS_3400_Lab4\IWKS_3400_Lab4\bin\x86\Debug\Content\ball.xnb</Output>
+      <Time>2017-02-12T10:33:34.5460833-07:00</Time>
+    </Item>
+    <Item>
+      <Source>greenstar.bmp</Source>
+      <Name>greenstar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jake\Desktop\IWKS_3400_Lab4\IWKS_3400_Lab4\IWKS_3400_Lab4\bin\x86\Debug\Content\greenstar.xnb</Output>
+      <Time>2017-02-12T10:33:34.6478534-07:00</Time>
+    </Item>
+    <Item>
+      <Source>redstar.bmp</Source>
+      <Name>redstar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jake\Desktop\IWKS_3400_Lab4\IWKS_3400_Lab4\IWKS_3400_Lab4\bin\x86\Debug\Content\redstar.xnb</Output>
+      <Time>2017-02-12T10:33:34.8719493-07:00</Time>
+    </Item>
+    <Item>
+      <Source>spatiul-cosmic.png</Source>
+      <Name>spatiul-cosmic</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jake\Desktop\IWKS_3400_Lab4\IWKS_3400_Lab4\IWKS_3400_Lab4\bin\x86\Debug\Content\spatiul-cosmic.xnb</Output>
+      <Time>2017-02-12T10:33:28.5943908-07:00</Time>
+    </Item>
+    <Item>
+      <Source>chord.wav</Source>
+      <Name>chord</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jake\Desktop\IWKS_3400_Lab4\IWKS_3400_Lab4\IWKS_3400_Lab4\bin\x86\Debug\Content\chord.xnb</Output>
+      <Time>2017-02-12T10:33:34.5901993-07:00</Time>
+    </Item>
+    <Item>
+      <Source>metal.wav</Source>
+      <Name>metal</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jake\Desktop\IWKS_3400_Lab4\IWKS_3400_Lab4\IWKS_3400_Lab4\bin\x86\Debug\Content\metal.xnb</Output>
+      <Time>2017-02-12T10:33:34.8463826-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Courier New.spritefont</Source>
+      <Name>Courier New</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jake\Desktop\IWKS_3400_Lab4\IWKS_3400_Lab4\IWKS_3400_Lab4\bin\x86\Debug\Content\Courier New.xnb</Output>
+      <Time>2017-02-12T10:42:48.2696253-07:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{6B48DF90-5788-4AF6-B8F4-C39630DF021C}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\jake\Desktop\IWKS_3400_Lab4\IWKS_3400_Lab4\IWKS_3400_Lab4Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\jake\Desktop\IWKS_3400_Lab4\IWKS_3400_Lab4\IWKS_3400_Lab4\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\jake\Desktop\IWKS_3400_Lab4\IWKS_3400_Lab4\IWKS_3400_Lab4\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\jake\Desktop\IWKS_3400_Lab4\IWKS_3400_Lab4\IWKS_3400_Lab4\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T17:22:30-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T17:22:30-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2017-01-20T14:13:54.9010205-07:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

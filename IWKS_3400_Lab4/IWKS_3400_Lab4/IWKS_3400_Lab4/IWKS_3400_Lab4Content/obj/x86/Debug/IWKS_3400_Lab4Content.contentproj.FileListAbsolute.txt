@@ -1,0 +1,2 @@
+C:\Users\Christopher Corona\Desktop\computer desktop\UC Denver\Spring 2017\CSCI 2941\IWKS_3400_Lab4\IWKS_3400_Lab4\IWKS_3400_Lab4Content\obj\x86\Debug\IWKS_3400_Lab4Content.contentprojResolveAssemblyReference.cache
+C:\Users\jake\Desktop\IWKS_3400_Lab4\IWKS_3400_Lab4\IWKS_3400_Lab4Content\obj\x86\Debug\IWKS_3400_Lab4Content.contentprojResolveAssemblyReference.cache
